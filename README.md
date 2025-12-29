@@ -13,6 +13,8 @@
 
 # Как работает скрипт
 
+В 11 строке нужно в переменной `%LN%` указать путь до `ln.exe`.
+
 ```batch
 Usage: DeLoreanCopy <SourcePath> <DestPath> (<KeepMaxCopies>)
 
