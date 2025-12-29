@@ -2,7 +2,7 @@
 
 На днях понадобилось организовать бэкапы с win на win, но места было мало. Бегло погуглил софт и варианты `rsnapshot`...
 
-Нашел утилиту [ln.exe](https://schinagl.priv.at/nt/ln/ln.html) от [Hermann Schinagl](https://schinagl.priv.at/), у которой есть режим `DeLorean Copy`, который как раз реализует то, что нужно.
+Нашел утилиту [ln.exe](https://schinagl.priv.at/nt/ln/ln.html) от [Hermann Schinagl](https://schinagl.priv.at/), у которой есть режим [DeLorean Copy](https://schinagl.priv.at/nt/ln/ln.html#deloreancopy), который как раз реализует то, что нужно.
 В архиве с `ln.exe` идут несколько cmd-скриптов. Я просто доработал под себя один из этих скриптов, чтобы было логгирование.
 
 Проверял на win7 и win10.
